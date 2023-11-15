@@ -1,0 +1,9 @@
+This is a food order website.
+In our website, you can order food based on the given categories: Pizza, Burger, Momo.
+So, we'll create a database with food items, such that each food item belongs to a particular category.
+We will also have the admin panels which can help admins manage the website
+If food/category is active, then it will be shown in our website, otherise it won't.
+If food/category is featured, then it will be shown in our website homepage, otherwise, it will just be shown in categories page.
+Status category will consist of three parts, [Ordered, On Delivery, and Delivered]
+Admin system is also called Content Management System(CMS)
+The admins are responsible for managing the admins, food categories, food and orders placed
