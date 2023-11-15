@@ -1,4 +1,5 @@
-# food-order This is a simple food order website.
+# food-order
+This is a simple food order website.
 The website basically has two parts: Admin side and client side.
 The project is ORIGINALLY from Vijay Thapa's Youtube account.
 Major key changes made are:
